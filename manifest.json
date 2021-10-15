@@ -1,0 +1,10 @@
+{
+    "name": "nerdBOT Robô IQ Option",
+    "short_name": "nerdBOT",
+    "theme_color": "#417dc7",
+    "background_color": "#212529",
+    "display": "browser",
+    "orientation": "landscape",
+    "start_url": "/",
+    "lang": "pt-BR"
+}
